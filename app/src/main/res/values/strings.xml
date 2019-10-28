@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextviewandScrollview</string>
+    <string name="mypara">Java is a programming language developed in the mid-1990s by James A. Gosling, a former computer scientist with Sun Microsystems. It is a cross-platform programming language which runs on most operating systems (OS), includin Windows, Linux and Mac OS. Java derives much of its syntax from the C and C++ programming languages.
+Java revolutionized programming, it is the pre-eminent languauge of the internet and it chaged the way we think about both the form and function of a program. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. Java produces applets (browser-run programs), which facilitate graphical user interface (GUI) and object interaction by Internet users. Prior to Java applets, Web pages were typically static and non-interactive. Java applets have diminished in popularity with the release of competing products, such as Adobe Flash and Microsoft Silverlight.
+</string>
+</resources>
